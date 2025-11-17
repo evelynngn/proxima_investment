@@ -1,1 +1,11 @@
-# proxima_investment
+
+  # Proxima Website Design
+
+  This is a code bundle for Proxima Website Design. The original project is available at https://www.figma.com/design/8OIGMmRGQTUH367q5wHUMc/Proxima-Website-Design.
+
+  ## Running the code
+
+  Run `npm i` to install the dependencies.
+
+  Run `npm run dev` to start the development server.
+  
