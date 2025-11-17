@@ -49,7 +49,8 @@
         '@': path.resolve(__dirname, './src'),
       },
     },
-    assetsInclude: ['**/*.png', '**/*.jpg', '**/*.jpeg', '**/*.gif', '**/*.svg', '**/*.webp'],
+    assetsInclude: ['**/*.png', '**/*.jpg', '**/*.jpeg', '**/*.gif', '**/*.svg', '**/*.webp', '**/*.ico'],
+    publicDir: 'public',
     build: {
       target: 'esnext',
       outDir: 'build',

@@ -123,8 +123,8 @@ function App() {
       linkIcon.setAttribute('rel', 'icon');
       document.head.appendChild(linkIcon);
     }
-    linkIcon.setAttribute('type', 'image/svg+xml');
-    linkIcon.setAttribute('href', '/favicon.svg');
+    linkIcon.setAttribute('type', 'image/x-icon');
+    linkIcon.setAttribute('href', '/favicon.ico');
     
     let linkAppleIcon = document.querySelector('link[rel="apple-touch-icon"]');
     if (!linkAppleIcon) {
